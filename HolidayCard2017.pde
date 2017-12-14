@@ -26,7 +26,6 @@ void draw() {
   for (Smoke smok : s) {
     smok.display();
   }
-  println(mouseX + " " + mouseY);
 }
 class Ground {
 
